@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on multiple amazing project 😎<br>👯 I'm looking to collaborate on open-source projects<br>🌱 I'm constantly learning and exploring new technologies<br>💬 I'm passionate about anything related to Javascript/Typescript/Node.js<br>📫 You can reach me at eponde26@gmail.com for any inquiries or discussions<br>⚡ Fun fact: I love  music and play video game in my free time
+🔭 I’m currently working on multiple amazing project 😎<br>👯 I'm looking to collaborate on open-source projects<br>🌱 I'm constantly learning and exploring new technologies<br>💬 I'm passionate about anything related to Javascript/Typescript/Node.js and Python<br>📫 You can reach me at eponde26@gmail.com for any inquiries or discussions<br>⚡ Fun fact: I love  music and play video game in my free time
 
 
 ## 🌐 Socials:
