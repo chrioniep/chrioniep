@@ -1,24 +1,84 @@
-# 💫 About Me:
-🔭 I’m currently working on multiple amazing project 😎<br>👯 I'm looking to collaborate on open-source projects<br>🌱 I'm constantly learning and exploring new technologies<br>💬 I'm passionate about anything related to Javascript/Typescript/Node.js and Python<br>📫 You can reach me at eponde26@gmail.com for any inquiries or discussions<br>⚡ Fun fact: I love  music and play video game in my free time
+# onion
 
+Active recall for serious learners.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/crioni_ep) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/crionieponde) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/crioni_eponde) 
+## Stack
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=chrioniep&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=chrioniep&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chrioniep&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- **Next.js 15** (App Router, Turbopack dev server)
+- **React 19** + **TypeScript** (strict)
+- **Tailwind CSS v4** — design tokens as CSS custom properties in `app/globals.css`
+- **shadcn/ui** — themed to the Onion design system, no defaults
+- **Zustand** — session, focus, and timer state
+- **TanStack Query** — server state
+- **next-auth v5** — Google + email/password
+- **MSW v2** — API mocking in dev and tests
+- **Framer Motion** — breathing visualizer + layer transitions
+- **Storybook 8** — component isolation
+- **Vitest + RTL** — unit/component tests
+- **Playwright** — end-to-end on the session flow
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=chrioniep&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## Getting started
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=chrioniep&limit=5&theme=dark&combine_all_yearly_contributions=true)
+```bash
+cp .env.example .env.local
+# Fill in AUTH_SECRET, GOOGLE_CLIENT_ID, GOOGLE_CLIENT_SECRET
 
----
-[![](https://visitcount.itsvg.in/api?id=chrioniep&icon=5&color=10)](https://visitcount.itsvg.in)
+npm install
+npm run dev
+```
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+App: http://localhost:3000
+Storybook: `npm run storybook` → http://localhost:6006
+
+## Scripts
+
+| Command | Description |
+|---|---|
+| `npm run dev` | Dev server with Turbopack |
+| `npm run build` | Production build |
+| `npm run type-check` | TypeScript check (no emit) |
+| `npm run lint` | ESLint |
+| `npm run test` | Vitest unit/component tests |
+| `npm run test:e2e` | Playwright end-to-end |
+| `npm run storybook` | Storybook dev server |
+
+## Directory structure
+
+```
+app/
+  (marketing)/         # Landing, pricing, method
+  (auth)/              # Sign-in, sign-up
+  (onboarding)/        # Mission → upload → plan → first session
+  (app)/               # Authenticated shell + all screens
+  api/auth/            # NextAuth route handler
+components/
+  ui/                  # Themed shadcn primitives
+  brand/               # Wordmark, LayerIndicator, ConcentricBreath, LayerProgress
+  session/             # Session-specific components (wired per screen task)
+  marketing/           # Landing/pricing components
+lib/
+  api/                 # Typed fetch client
+  stores/              # Zustand (session, focus, timer)
+  schemas/             # Zod schemas + mock factories
+  auth.ts              # NextAuth config
+  providers.tsx        # TanStack Query + next-themes
+mocks/                 # MSW handlers (browser + node)
+stories/               # Storybook stories
+tests/                 # Vitest unit tests + Playwright e2e
+```
+
+## Design tokens
+
+All tokens live in `app/globals.css` as CSS custom properties on `:root` (dark, default) and `[data-theme="light"]`. They map to Tailwind utilities via `@theme inline`.
+
+Key utilities: `bg-bg`, `bg-bg-elev`, `bg-bg-soft`, `text-fg`, `text-muted`, `text-faint`, `text-accent`, `border-border`, `font-serif`, `font-sans`, `font-mono`.
+
+No hardcoded hex values in components — tokens only. No shadows, no gradients, no glassmorphism.
+
+## Auth
+
+NextAuth v5 with Google OAuth and credentials (email + password). The credentials `authorize` function is a stub — wire it to the backend API when ready. Set `AUTH_SECRET`, `GOOGLE_CLIENT_ID`, and `GOOGLE_CLIENT_SECRET` in `.env.local`.
+
+## API mocking
+
+MSW is wired for both browser (dev) and Node (Vitest). Add handlers to `mocks/handlers.ts`. When the real backend is ready, point `NEXT_PUBLIC_API_URL` at it — no component changes required.
